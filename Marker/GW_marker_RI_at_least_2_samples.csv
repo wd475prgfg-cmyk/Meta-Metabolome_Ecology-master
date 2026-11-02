@@ -1,0 +1,7 @@
+﻿endpoint,formula,C,H,N,O,P,S,endpoint_sample_total,detected_samples,detected_fraction,RI_le1_samples,RI_le1_fraction_all_samples,RI_le1_fraction_detected,RI_eq0_samples,opposite_detected_samples,always_RI_le1_when_detected,RI_le1_at_least_2_samples,min_transformation_count,max_transformation_count,detected_sample_names,RI_le1_sample_names
+GW,C11H23NO6S2,11,23,1,6,0,2,6,2,0.3333333333333333,2,0.3333333333333333,1.0,1,0,1,1,0,1,Sample_GW_Groundwater-2; Sample_GW_Groundwater-Yt,Sample_GW_Groundwater-2; Sample_GW_Groundwater-Yt
+GW,C14H8O6S,14,8,0,6,0,1,6,2,0.3333333333333333,2,0.3333333333333333,1.0,0,0,1,1,1,1,Sample_GW_Groundwater-2; Sample_GW_Groundwater-Zh,Sample_GW_Groundwater-2; Sample_GW_Groundwater-Zh
+GW,C16H24N2O12S,16,24,2,12,0,1,6,2,0.3333333333333333,2,0.3333333333333333,1.0,1,0,1,1,0,1,Sample_GW_Groundwater-2; Sample_GW_Groundwater-8,Sample_GW_Groundwater-2; Sample_GW_Groundwater-8
+GW,C21H28N4O7SP2,21,28,4,7,2,1,6,2,0.3333333333333333,2,0.3333333333333333,1.0,2,0,1,1,0,0,Sample_GW_Groundwater-8; Sample_GW_Groundwater-Zh,Sample_GW_Groundwater-8; Sample_GW_Groundwater-Zh
+GW,C21H37N3O4SP2,21,37,3,4,2,1,6,2,0.3333333333333333,2,0.3333333333333333,1.0,2,0,1,1,0,0,Sample_GW_Groundwater-8; Sample_GW_Groundwater-Yt,Sample_GW_Groundwater-8; Sample_GW_Groundwater-Yt
+GW,C22H36O3S2P2,22,36,0,3,2,2,6,2,0.3333333333333333,2,0.3333333333333333,1.0,2,0,1,1,0,0,Sample_GW_Groundwater-Yt; Sample_GW_Groundwater-Zh,Sample_GW_Groundwater-Yt; Sample_GW_Groundwater-Zh
