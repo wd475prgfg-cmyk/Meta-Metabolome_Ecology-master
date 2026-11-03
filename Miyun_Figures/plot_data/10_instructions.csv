@@ -1,0 +1,11 @@
+﻿item,value
+figure_version,严格复现截图：地下水19、沉积物6；未改用后续双规则交集10个名单
+degree_meaning,组内中位质量、N>0且H/C<1.5筛后网络的不同分子邻居数，不是逐样本转化次数
+distribution_percent,百分数为0–100；每组分母是该组全部网络分子，未按峰强加权
+pool_overlap,marker池k=0是RI池k≤1的子集，不能把两柱相加
+heatmap_colors,颜色用log10(原始峰强)，全图共同色阶，不进行行归一化
+heatmap_annotations,格内文字=原始峰强/1000000，保留两位小数
+heatmap_missing,空白表示未检出，画灰色；不得当作实测0或对其取log10
+sample_names,Lake_K1/K2/K3分别对应K1-shui_result/K2-shui_result/K3-shui_result
+row_order,热图必须按row_order从1到25排序，前19地下水、后6沉积物
+interpretation,Lake检出不等于稳定性验证；原始峰强不代表来源氮贡献比例

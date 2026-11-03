@@ -1,0 +1,19 @@
+# 两张图的原始作图数据
+
+下载 two_figures_plot_data.xlsx 即可，10个sheet也分别提供CSV。
+
+## 图1：连接次数分布+RI/marker柱状图
+
+- 左图：01_degree_percent.csv；第一列是分类，Lake/Sediment/Groundwater三列是百分数，直接做分组柱状图。百分数已为0–100，不要再次乘100。
+- 02_degree_counts.csv是对应分子数，09_degree_long.csv是原始长表，04_all_molecule_degrees.csv是每个分子实际连接数，可独立重算分布。
+- 右图：03_RI_marker_pools.csv，取RI_pool_k_le_1及marker_pool_k_eq_0两列。对应Lake 215/117、Sediment 157/94、Groundwater 264/138。marker是RI子集，两柱不能相加。
+
+## 图2：Lake候选峰强热图
+
+- 05_heatmap_raw.csv：原始峰强整数矩阵，行顺序完全对应截图，前19行地下水、后6行沉积物。
+- 06_heatmap_log10.csv：颜色矩阵，使用这张表画热图，按全图共同最小/最大值确定色阶，不作行归一化。
+- 07_heatmap_labels.csv：格内文字，原始峰强除以10^6，保留两位小数。
+- 空白表示未检出，显示灰色和横线；不能填0后取log10。
+- 08_original_peak_records.csv：25个分子在来源和Lake中的筛后原始峰记录，包含样本名、实测m/z、原始峰强、来源工作簿、sheet、Excel行号。CSV保留精确十进制文本。
+
+本交付复现用户截图19+6的已有图，不使用后续17个或双规则交集10个替换。候选零连接指来源筛后中位质量网络；Lake检出不是稳定性验证。峰强未经归一化，不解释为来源氮贡献比例。
