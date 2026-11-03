@@ -1,0 +1,33 @@
+{
+  "input_filename": "九月密云_GW_6样合并.xlsx",
+  "input_sha256": "c50a2b0e30a65f98566c130efd0734cbbca8a6ea544311e6b49c9af0891344db",
+  "mass_method": "median",
+  "mass_range": [
+    200,
+    900
+  ],
+  "network_scope": "pooled unique formulas with N>0 and H/C<1.5",
+  "tolerance_Da": 1e-05,
+  "database_rows": 1255,
+  "matching_arithmetic": "integer nanodaltons, inclusive tolerance 10000 nDa",
+  "database_sha256": "340c3a30a593cd336c115e9e7ad5ec78608c94d6c9654dff86296c33adcb68a5",
+  "counts": {
+    "原始样本数": 6,
+    "原始峰记录": 23358,
+    "原始合并去重分子式": 6363,
+    "200–900且正峰强记录": 23233,
+    "200–900合并分子式": 6286,
+    "合并后N大于0分子式": 3318,
+    "N大于0且HC小于1.5分子式": 2419,
+    "筛后集合匹配峰对": 39904,
+    "转化次数等于0": 138,
+    "转化次数等于1": 125,
+    "转化次数小于等于1": 263,
+    "转化次数大于1": 2156
+  },
+  "software": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3"
+  },
+  "core_sha256": "e46c32f864f4225c685a88c22a1b83f5cae48427a1c77c793939e656dc049dfc"
+}
