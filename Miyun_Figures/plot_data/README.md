@@ -1,5 +1,30 @@
 # 两张图的原始作图数据
 
+## 在服务器直接画这两张图（新增）
+
+render_two_figures.py才是绘图脚本，export_two_figures_data.py是上游分析环境的数据导出工具；独立服务器不要运行后者。
+
+如果已上传Excel，把render_two_figures.py和two_figures_plot_data.xlsx放在同一目录，执行：
+
+```bash
+python3 -m pip install numpy matplotlib openpyxl
+python3 render_two_figures.py --data two_figures_plot_data.xlsx
+```
+
+如果解压了整个CSV数据包，在该目录执行：
+
+```bash
+python3 render_two_figures.py
+```
+
+默认在数据旁边的figures目录生成两张图，每张各有PNG/PDF/SVG。服务器不弹图窗是正常的。脚本自动搜索中文字体，没有中文字体时使用英文标签，保证可运行；如需中文可指定本机字体文件：
+
+```bash
+python3 render_two_figures.py --data two_figures_plot_data.xlsx --font /path/to/ChineseFont.ttf
+```
+
+脚本不依赖原分析服务器/workspace目录。已实际测试从Excel读取并生成两图。
+
 下载 two_figures_plot_data.xlsx 即可，10个sheet也分别提供CSV。
 
 ## 图1：连接次数分布+RI/marker柱状图
