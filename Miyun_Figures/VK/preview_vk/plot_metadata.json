@@ -1,0 +1,54 @@
+{
+  "exact_requested_fonts": false,
+  "Chinese_font": "Noto Serif CJK JP",
+  "Latin_font": "Liberation Serif",
+  "all_molecules_available": true,
+  "data": "/workspace/miyun_analysis/vk_figures/vk_plot_data.xlsx",
+  "counts": [
+    {
+      "figure": "01_VK_all_molecules",
+      "group": "Lake",
+      "formulas": 5214,
+      "point_count": 5214,
+      "one_point": "one formula, unweighted"
+    },
+    {
+      "figure": "01_VK_all_molecules",
+      "group": "Sediment",
+      "formulas": 4923,
+      "point_count": 4923,
+      "one_point": "one formula, unweighted"
+    },
+    {
+      "figure": "01_VK_all_molecules",
+      "group": "Groundwater",
+      "formulas": 6286,
+      "point_count": 6286,
+      "one_point": "one formula, unweighted"
+    },
+    {
+      "figure": "02_VK_network_filtered",
+      "group": "Lake",
+      "formulas": 1828,
+      "point_count": 1828,
+      "one_point": "one formula, unweighted"
+    },
+    {
+      "figure": "02_VK_network_filtered",
+      "group": "Sediment",
+      "formulas": 1595,
+      "point_count": 1595,
+      "one_point": "one formula, unweighted"
+    },
+    {
+      "figure": "02_VK_network_filtered",
+      "group": "Groundwater",
+      "formulas": 2419,
+      "point_count": 2419,
+      "one_point": "one formula, unweighted"
+    }
+  ],
+  "Lake_groundwater_candidates": 19,
+  "Lake_sediment_candidates": 6,
+  "note": "Ratio-position overlap means multiple formulas can share coordinates; no compound class inferred from VK regions."
+}
