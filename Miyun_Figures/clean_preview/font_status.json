@@ -1,0 +1,10 @@
+{
+  "exact_requested_fonts": false,
+  "Chinese_font": "Noto Serif CJK JP",
+  "Chinese_font_file": null,
+  "Latin_font": "Liberation Serif",
+  "Latin_font_file": null,
+  "layout": "clean: no titles, footnotes, explanatory paragraphs or count banners",
+  "heatmap_cell_numbers": "raw intensity / 10^6, 2 decimals",
+  "heatmap_missing": "gray and em dash"
+}
