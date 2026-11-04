@@ -1,4 +1,5 @@
 {
+  "panel_letters": false,
   "exact_requested_fonts": false,
   "Chinese_font": "Noto Serif CJK JP",
   "Latin_font": "Liberation Serif",
