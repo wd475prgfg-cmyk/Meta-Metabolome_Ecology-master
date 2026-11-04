@@ -1,0 +1,49 @@
+﻿figure,panel,group_or_sample,VK_region,formula_count,total_formulas,percent
+01_VK_classified_three_groups,a,Groundwater,Lipids-like,531,6286,8.447343302577156
+01_VK_classified_three_groups,a,Groundwater,Aliphatic/Peptides-like,807,6286,12.8380528157811
+01_VK_classified_three_groups,a,Groundwater,Lignin-like,3954,6286,62.90168628698696
+01_VK_classified_three_groups,a,Groundwater,Carbohydrates-like,75,6286,1.1931275851097678
+01_VK_classified_three_groups,a,Groundwater,Unsaturated hydrocarbons-like,72,6286,1.145402481705377
+01_VK_classified_three_groups,a,Groundwater,Condensed aromatics-like,275,6286,4.374801145402482
+01_VK_classified_three_groups,a,Groundwater,Tannins-like,521,6286,8.288259624562519
+01_VK_classified_three_groups,a,Groundwater,Unclassified,51,6286,0.811326757874642
+01_VK_classified_three_groups,b,Lake,Lipids-like,332,5214,6.367472190257001
+01_VK_classified_three_groups,b,Lake,Aliphatic/Peptides-like,681,5214,13.060989643268124
+01_VK_classified_three_groups,b,Lake,Lignin-like,3274,5214,62.792481779823554
+01_VK_classified_three_groups,b,Lake,Carbohydrates-like,67,5214,1.2850019179133103
+01_VK_classified_three_groups,b,Lake,Unsaturated hydrocarbons-like,27,5214,0.5178365937859609
+01_VK_classified_three_groups,b,Lake,Condensed aromatics-like,237,5214,4.545454545454546
+01_VK_classified_three_groups,b,Lake,Tannins-like,570,5214,10.93210586881473
+01_VK_classified_three_groups,b,Lake,Unclassified,26,5214,0.49865746068277716
+01_VK_classified_three_groups,c,Sediment,Lipids-like,449,4923,9.120455007109486
+01_VK_classified_three_groups,c,Sediment,Aliphatic/Peptides-like,651,4923,13.223644119439367
+01_VK_classified_three_groups,c,Sediment,Lignin-like,2595,4923,52.71176112126752
+01_VK_classified_three_groups,c,Sediment,Carbohydrates-like,58,4923,1.1781434084907576
+01_VK_classified_three_groups,c,Sediment,Unsaturated hydrocarbons-like,33,4923,0.6703229737964655
+01_VK_classified_three_groups,c,Sediment,Condensed aromatics-like,509,4923,10.339224050375787
+01_VK_classified_three_groups,c,Sediment,Tannins-like,568,4923,11.537680276254317
+01_VK_classified_three_groups,c,Sediment,Unclassified,60,4923,1.218769043266301
+03_VK_classified_network_filtered,a,Groundwater,Lipids-like,0,2419,0.0
+03_VK_classified_network_filtered,a,Groundwater,Aliphatic/Peptides-like,0,2419,0.0
+03_VK_classified_network_filtered,a,Groundwater,Lignin-like,2004,2419,82.84415047540305
+03_VK_classified_network_filtered,a,Groundwater,Carbohydrates-like,0,2419,0.0
+03_VK_classified_network_filtered,a,Groundwater,Unsaturated hydrocarbons-like,43,2419,1.777594047126912
+03_VK_classified_network_filtered,a,Groundwater,Condensed aromatics-like,165,2419,6.821000413393964
+03_VK_classified_network_filtered,a,Groundwater,Tannins-like,205,2419,8.474576271186441
+03_VK_classified_network_filtered,a,Groundwater,Unclassified,2,2419,0.0826787928896238
+03_VK_classified_network_filtered,b,Lake,Lipids-like,0,1828,0.0
+03_VK_classified_network_filtered,b,Lake,Aliphatic/Peptides-like,0,1828,0.0
+03_VK_classified_network_filtered,b,Lake,Lignin-like,1469,1828,80.36105032822758
+03_VK_classified_network_filtered,b,Lake,Carbohydrates-like,0,1828,0.0
+03_VK_classified_network_filtered,b,Lake,Unsaturated hydrocarbons-like,14,1828,0.7658643326039387
+03_VK_classified_network_filtered,b,Lake,Condensed aromatics-like,131,1828,7.166301969365427
+03_VK_classified_network_filtered,b,Lake,Tannins-like,214,1828,11.706783369803064
+03_VK_classified_network_filtered,b,Lake,Unclassified,0,1828,0.0
+03_VK_classified_network_filtered,c,Sediment,Lipids-like,0,1595,0.0
+03_VK_classified_network_filtered,c,Sediment,Aliphatic/Peptides-like,0,1595,0.0
+03_VK_classified_network_filtered,c,Sediment,Lignin-like,1149,1595,72.03761755485894
+03_VK_classified_network_filtered,c,Sediment,Carbohydrates-like,0,1595,0.0
+03_VK_classified_network_filtered,c,Sediment,Unsaturated hydrocarbons-like,14,1595,0.877742946708464
+03_VK_classified_network_filtered,c,Sediment,Condensed aromatics-like,243,1595,15.235109717868339
+03_VK_classified_network_filtered,c,Sediment,Tannins-like,183,1595,11.473354231974922
+03_VK_classified_network_filtered,c,Sediment,Unclassified,6,1595,0.3761755485893417

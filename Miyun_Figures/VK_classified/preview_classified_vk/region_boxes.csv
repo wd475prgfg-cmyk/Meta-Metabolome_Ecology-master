@@ -1,0 +1,8 @@
+﻿region,O_C_min,O_C_max,H_C_min,H_C_max
+Lipids-like,0,0.3,1.5,2
+Aliphatic/Peptides-like,0.3,0.67,1.5,2.2
+Lignin-like,0.1,0.67,0.7,1.5
+Carbohydrates-like,0.67,1.2,1.5,2.4
+Unsaturated hydrocarbons-like,0,0.1,0.7,1.5
+Condensed aromatics-like,0,0.67,0.2,0.7
+Tannins-like,0.67,1.2,0.5,1.5

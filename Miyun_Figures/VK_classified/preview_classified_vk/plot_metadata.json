@@ -1,0 +1,17 @@
+{
+  "exact_requested_fonts": false,
+  "Chinese_font": "Noto Serif CJK JP",
+  "Latin_font": "Liberation Serif",
+  "scope": "measured m/z 200-900 and positive intensity; group/sample formula deduplication",
+  "group_formula_rows": 16423,
+  "network_formula_rows": 5842,
+  "x_range": [
+    -0.025,
+    1.25
+  ],
+  "y_range": [
+    -0.025,
+    2.8299999999999996
+  ],
+  "interpretation": "Empirical VK region labels only, not confirmed compound structures. Regional membership uses exact rational atomic ratios; intervals documented in README. Reference image supplied no numeric boundary table; chosen boundaries are explicit operational rules, not claimed to reproduce the original publication exactly."
+}

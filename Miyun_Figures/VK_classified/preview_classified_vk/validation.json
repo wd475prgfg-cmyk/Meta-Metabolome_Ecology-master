@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "primary_panels": 3,
+  "panel_order": [
+    "Groundwater",
+    "Lake",
+    "Sediment"
+  ],
+  "classified_all_groups_total": 16423,
+  "classes_per_panel": 8,
+  "sample_panel_version_included": false
+}
